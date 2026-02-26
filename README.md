@@ -4,6 +4,8 @@ ___
 
 [<h2 align="center"><i></i>Ссылка на курс</h2>](https://github.com/ugapanyuk/courses_current/wiki/COURSE_TMO_SPRING_IU5_2026/)
 
+Или по ссылке переходите здесь: https://github.com/ugapanyuk/courses_current/wiki/COURSE_TMO_SPRING_IU5_2026/
+
 ___
 
 # **Лабораторные работы ТМО**
@@ -16,4 +18,5 @@ ___
 ___
 
 **Выполнил:** Пронин Вячеслав Константинович, группа ИУ5Ц-83Б
+
 
