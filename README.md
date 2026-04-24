@@ -12,9 +12,11 @@ ___
 
 | № | Наименование | Ссылка |
 |---:|-------------|--------|
-| :one: | Разведочный анализ данных, исследование и визуализация данных | [lab1](https://github.com/Vyacheslav-programmer/TML/tree/EDA) |
-| :two: | Обработка пропусков в данных, кодирование категориальных признаков, масштабирование данных | [lab2](https://github.com/Vyacheslav-programmer/TML/tree/MISS) |
-| :three: | Подготовка обучающей и тестовой выборки, кросс-валидация и подбор гиперпараметров на примере метода ближайших соседей | [lab3](https://github.com/Vyacheslav-programmer/TML/tree/KNN) |
+| :one: | Разведочный анализ данных. Исследование и визуализация данных. | [lab1](https://github.com/Vyacheslav-programmer/TML/tree/EDA) |
+| :two: | Обработка пропусков в данных, кодирование категориальных признаков, масштабирование данных. | [lab2](https://github.com/Vyacheslav-programmer/TML/tree/MISS) |
+| :three: | Подготовка обучающей и тестовой выборки, кросс-валидация и подбор гиперпараметров на примере метода ближайших соседей. | [lab3](https://github.com/Vyacheslav-programmer/TML/tree/KNN) |
+| :four: | Линейные модели, SVM и деревья решений. | [lab4](https://github.com/Vyacheslav-programmer/TML/tree/lab4) |
+| :five: | Ансамбли моделей машинного обучения. Часть 1. | [lab5](https://github.com/Vyacheslav-programmer/TML/tree/lab5) |
 
 ___
 
