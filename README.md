@@ -18,6 +18,7 @@ ___
 | :four: | Линейные модели, SVM и деревья решений. | [lab4](https://github.com/Vyacheslav-programmer/TML/tree/linear-models-svm-trees) |
 | :five: | Ансамбли моделей машинного обучения. Часть 1. | [lab5](https://github.com/Vyacheslav-programmer/TML/tree/ensemble-models) |
 | :six: | Введение в методы оптимизации. | [lab6](https://github.com/Vyacheslav-programmer/TML/tree/optimization-methods) |
+| :seven: | Анализ и прогнозирование временного ряда. | [lab8](https://github.com/Vyacheslav-programmer/TML/tree/time-series-analysis) |
 
 ___
 
