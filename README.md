@@ -7,6 +7,7 @@ ___
 Или по ссылке переходите здесь: https://github.com/ugapanyuk/courses_current/wiki/COURSE_TMO_SPRING_IU5_2026/
 
 ___
+
 # **Лабораторные работы ТМО**
 
 | № | Наименование | Ссылка |
@@ -17,7 +18,8 @@ ___
 | :four: | Линейные модели, SVM и деревья решений. | [lab4](https://github.com/Vyacheslav-programmer/TML/tree/linear-models-svm-trees) |
 | :five: | Ансамбли моделей машинного обучения. Часть 1. | [lab5](https://github.com/Vyacheslav-programmer/TML/tree/ensemble-models) |
 | :six: | Введение в методы оптимизации. | [lab6](https://github.com/Vyacheslav-programmer/TML/tree/optimization-methods) |
-| :seven: | Анализ и прогнозирование временного ряда. | [lab8](https://github.com/Vyacheslav-programmer/TML/tree/time-series-analysis) |
+| :seven: | Ансамбли моделей машинного обучения. Часть 2. | [lab7](https://github.com/Vyacheslav-programmer/TML/tree/ensemble-methods-part2) |
+| :eight: | Анализ и прогнозирование временного ряда. | [lab8](https://github.com/Vyacheslav-programmer/TML/tree/time-series-analysis) |
 | :nine: | Методы обучения без учителя. | [lab9](https://github.com/Vyacheslav-programmer/TML/tree/lab9-unsupervised-learning) |
 
 ___
