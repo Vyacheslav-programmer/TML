@@ -18,6 +18,7 @@ ___
 | :five: | Ансамбли моделей машинного обучения. Часть 1. | [lab5](https://github.com/Vyacheslav-programmer/TML/tree/ensemble-models) |
 | :six: | Введение в методы оптимизации. | [lab6](https://github.com/Vyacheslav-programmer/TML/tree/optimization-methods) |
 | :seven: | Анализ и прогнозирование временного ряда. | [lab8](https://github.com/Vyacheslav-programmer/TML/tree/time-series-analysis) |
+| :nine: | Методы обучения без учителя. | [lab9](https://github.com/Vyacheslav-programmer/TML/tree/lab9-unsupervised-learning) |
 
 ___
 
