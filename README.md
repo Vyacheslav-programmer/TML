@@ -17,6 +17,7 @@ ___
 | :three: | Подготовка обучающей и тестовой выборки, кросс-валидация и подбор гиперпараметров на примере метода ближайших соседей. | [lab3](https://github.com/Vyacheslav-programmer/TML/tree/KNN) |
 | :four: | Линейные модели, SVM и деревья решений. | [lab4](https://github.com/Vyacheslav-programmer/TML/tree/linear-models-svm-trees) |
 | :five: | Ансамбли моделей машинного обучения. Часть 1. | [lab5](https://github.com/Vyacheslav-programmer/TML/tree/ensemble-models) |
+| :six: | Введение в методы оптимизации. | [lab6](https://github.com/Vyacheslav-programmer/TML/tree/optimization-methods) |
 
 ___
 
